@@ -3,4 +3,4 @@ Git is free software.
 git is powerful
 git 1
 git 2
-dev fenzhixiugai
+Creating a new branch is quick & simple.
